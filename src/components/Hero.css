@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+section {
+    padding: 20px;
+}
+
+.hr {
+    display: flex;
+    flex-direction: column;
+}
+
+.h-image {
+    max-width: 400px;
+    align-self: center;
+}
+
+.h-header {
+    margin-bottom: 16px;
+}
+
+.h-text {
+    margin-top: 0;
+}
